@@ -1,0 +1,41 @@
+.table-size{
+    width: 100%; 
+    height: auto;
+    overflow-x: auto;
+}
+
+.input {
+    padding: 2px;
+    font-size: 9px;
+}
+
+.tamLetra{
+    font-size: 9px;
+}
+
+.i-eliminar{
+    font-size: 11px;
+}
+
+th{
+    font-size: 12px;
+}
+
+.btn-eliminar{
+    width: 60px;
+    height: 45px;
+}
+
+.container{
+    display: flex;
+}
+
+.left{
+    text-align: left;
+}
+
+.content {
+    text-align: left; 
+    padding-left: 20px; 
+    color: blue;
+  }
